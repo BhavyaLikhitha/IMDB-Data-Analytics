@@ -1,2 +1,1 @@
-# IMDB-Data-Analytics
-IMDb Data Engineering &amp; Scalable BI Architecture Implementation
+# 🎬 IMDb Data Engineering & Scalable BI Architecture Implementation 
